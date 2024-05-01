@@ -1,0 +1,9 @@
+streamlit
+pandas
+pillow
+torch
+timm
+transformers
+numpy
+requests
+Image
